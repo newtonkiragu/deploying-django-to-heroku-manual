@@ -128,6 +128,7 @@ Firts create a `.env` file and add it to `.gitignore` so you don’t commit any 
 below is an example of configurations you can add to the `.env` file.
 
 ```python
+#just an example, dont share your .env settings
 SECRET_KEY='342s(s(!hsjd998sde8$=o4$3m!(o+kce2^97kp6#ujhi'
 DEBUG=True #set to false in production
 DB_NAME='gallery'
